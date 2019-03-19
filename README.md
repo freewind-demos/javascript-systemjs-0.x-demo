@@ -1,5 +1,7 @@
-JavaScript SystemJS Demo
-========================
+JavaScript SystemJS 0.x Demo
+============================
+
+SystemJS在0.21.x之后版本直接变成了2.x（现在是3.x)，引入了破坏性变化。所以这个Demo是专门为0.x而设，新版本在另一个Demo中。
 
 SystemJS跟RequireJS有点像，可以在前端load使用不同模块类型(`commonjs`, `AMD`等)的js文件。
 
